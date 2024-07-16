@@ -35,6 +35,6 @@ footer p {
 }
 
 footer a {
-  color: black;
-  text-decoration: violet wavy underline;
+  color: violet;
+  font-weight: bold;
 }
